@@ -1,2 +1,6 @@
 # AKTI_6-PROJECT
 This is my test repository
+WEB BASE PROJECT 
+LARAVEL 12
+VUE.JS
+
